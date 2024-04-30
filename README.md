@@ -1,8 +1,6 @@
 # Used_Car_Price_Predictor
 Welcome to the Used Car Price Predictor! 🚗💰 This ML regression project accurately estimates the value of pre-owned vehicles.
 
-# Used Car Price Predictor
-
 ## Overview
 Used Car Price Predictor is an ML regression project focused on predicting the prices of used cars. The project encompasses various stages including data cleaning, data preprocessing, and modeling.
 
